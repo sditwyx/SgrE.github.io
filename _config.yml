@@ -57,7 +57,8 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+
+username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -78,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Fanghui Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate, Shanghai Jiao Tong University"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -92,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SgrE"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+ 
 
 # Reading Files
 include:
