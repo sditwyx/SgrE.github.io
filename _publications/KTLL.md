@@ -14,12 +14,19 @@ Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang
 Recommend citation:
 
 @article{Liu2017Kernelized,
-  <\br> title={Kernelized temporal locality learning for real-time visual tracking},
+
+  title={Kernelized temporal locality learning for real-time visual tracking},
+  
   author={Liu, Fanghui and Zhou, Tao and Fu, Keren and Yang, Jie},
+  
   journal={Pattern Recognition Letters},
+  
   volume={90},
+  
   number={C},
+  
   pages={72-79},
+  
   year={2017},
 }
 

@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/NMC
 excerpt: 'Authors: **Fanghui Liu**, Chen Gong, Tao Zhou, Keren Fu, Xiangjian He, and Jie Yang'
 date: 2017-05-26
-venue: 'IEEE Transactions on Multimedia'
-paperurl: 'http://sgre.github.io/files/NMC.pdf'
+venue: 'IEEE Transactions on Multimedia (TMM)'
 ---
 Authors: **Fanghui Liu**, Chen Gong, Tao Zhou, Keren Fu, Xiangjian He, and Jie Yang
 
