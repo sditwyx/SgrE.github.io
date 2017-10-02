@@ -1,12 +1,12 @@
 ---
-title: "Kernelized temporal locality learning for real-time visual tracking"
+title: "Robust visual tracking via constrained correlation filter coding"
 collection: publications
-permalink: /publication/KTLL
+permalink: /publication/OTSDF
 excerpt: 'Authors: **Fanghui Liu**, Tao Zhou, Keren Fu, and Jie Yang'
 date: 2016-09-28
 venue: 'Pattern Recognition Letters'
 ---
-Authors: Fanghui Liu, Tao Zhou, Keren Fu, and Jie Yang
+Authors: **Fanghui Liu**, Tao Zhou, Keren Fu, and Jie Yang
 
 Download [paper](http://sgre.github.io/files/OTSDF.pdf),
 [code](http://sgre.github.io/files/OTSDF_code.zip),
