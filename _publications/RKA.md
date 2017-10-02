@@ -1,5 +1,5 @@
 ---
-title: "Robust Kernel Approximation for Classification"
+title: "Robust kernel approximation for classification"
 collection: publications
 permalink: /publication/RKA
 excerpt: '**Fanghui Liu**, Xiaolin Huang, Cheng Peng, Jie Yang, and Nikola Kasabov'
