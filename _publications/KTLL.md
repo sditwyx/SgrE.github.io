@@ -2,14 +2,13 @@
 title: "Kernelized temporal locality learning for real-time visual tracking"
 collection: publications
 permalink: /publication/KTLL
-excerpt: 'Authors: **Fanghui Liu**, Tao Zhou, Keren Fu and Jie Yang'
+excerpt: '**Fanghui Liu**, Tao Zhou, Keren Fu, and Jie Yang'
 date: 2017-03-22
 venue: 'Pattern Recognition Letters'
-paperurl: 'http://sgre.github.io/files/KTLL.pdf'
 ---
-Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang
+Authors: Fanghui Liu, Tao Zhou, Keren Fu, and Jie Yang
 
-[Download paper here](http://sgre.github.io/files/KTLL.pdf)
+Download [paper](http://sgre.github.io/files/KTLL.pdf)
 
 Recommend citation:
 

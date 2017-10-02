@@ -8,5 +8,7 @@ venue: 'Proceedings of the 25th ACM Multimedia'
 ---
 Authors: **Fanghui Liu**, Xiaolin Huang, and Jie Yang
 
-[Download paper here](http://sgre.github.io/files/IKLR.pdf)
-[Download one minute talk](http://sgre.github.io/files/ACM2017oneminute.pdf)
+Download [paper](http://sgre.github.io/files/IKLR.pdf),
+[one minute talk](http://sgre.github.io/files/ACM2017oneminute.pdf)
+
+Code will be soon.
