@@ -82,10 +82,12 @@ author:
   name             : "Fanghui Liu"
   avatar           : "profile.png"
   bio              : "Ph.D. candidate, Shanghai Jiao Tong University"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   googlescholar    : "http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao"
   email            : "lfhsgre@gmail.com"
+  DBLP             : "http://dblp.uni-trier.de/pers/hd/l/Liu:Fanghui"
+  Researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -99,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid"
+  #orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
