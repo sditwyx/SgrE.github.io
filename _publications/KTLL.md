@@ -21,6 +21,7 @@ Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang
 [Download paper here](http://sgre.github.io/files/KTLL.pdf)
 
 Recommended citation: 
+
 @article{Liu2017Kernelized,
   title={Kernelized temporal locality learning for real-time visual tracking},
   author={Liu, Fanghui and Zhou, Tao and Fu, Keren and Yang, Jie},
