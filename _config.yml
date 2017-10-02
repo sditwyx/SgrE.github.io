@@ -54,8 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# twitter:
+  # username               : &twitter
 facebook:
 
 username               :
@@ -85,7 +85,7 @@ author:
   location         : "Location"
   employer         :
   googlescholar    : "http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao"
-  email            : "lfhsgre(AT)gmail(DOT)com. Please replace (AT) and (DOT) with . and @, respectively."
+  email            : "lfhsgre@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
