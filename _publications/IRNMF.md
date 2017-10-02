@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IRNMF
 excerpt: '**Fanghui Liu**, Mingna Liu, Tao Zhou, Yu Qiao, and Jie Yang'
 date: 2016-09-30
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+venue: 'International Conference on Neural Information Processing (ICONIP)'
 ---
 Authors: **Fanghui Liu**, Mingna Liu, Tao Zhou, Yu Qiao, and Jie Yang
 
@@ -18,7 +18,7 @@ Recommend citation:
   
   author={Liu, Fanghui and Liu, Mingna and Zhou, Tao and Qiao, Yu and Yang, Jie},
   
-  booktitle={International Conference on Neural Information Processing},
+  booktitle={Proceedings of International Conference on Neural Information Processing},
   
   pages={611-619},
   
