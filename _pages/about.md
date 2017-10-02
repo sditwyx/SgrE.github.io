@@ -19,4 +19,5 @@ My research areas mainly include [kernel learning](https://en.wikipedia.org/wiki
 and [bayesian learning](https://en.wikipedia.org/wiki/Bayesian_inference).
 Previously I have worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and I'm 
 still interested in this topic.
+
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).

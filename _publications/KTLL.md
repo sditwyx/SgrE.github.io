@@ -1,7 +1,7 @@
 ---
 title: "Kernelized temporal locality learning for real-time visual tracking"
 collection: publications
-permalink: /publication/NMC
+permalink: /publication/KTLL
 excerpt: 'Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang'
 date: 2017-03-22
 venue: 'Pattern Recognition Letters'
