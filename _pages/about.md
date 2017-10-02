@@ -25,3 +25,9 @@ related to infrared target detection, tracking, and recognition.
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
+The homepage is under construction and more information will be presented.
+
+News
+----
+It will be regularly updated.
+
