@@ -6,7 +6,7 @@ excerpt: 'Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang'
 date: 2017-03-22
 venue: 'Pattern Recognition Letters'
 paperurl: 'http://sgre.github.io/files/KTLL.pdf'
-
+citation: 'Recommended citation: @article{Liu2017Kernelized,}'
 ---
 Authors: Fanghui Liu, Tao Zhou, Keren Fu and Jie Yang
 
