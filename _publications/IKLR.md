@@ -1,5 +1,5 @@
 ---
-title: "Indefinite Kernel Logistic Regression"
+title: "Indefinite kernel logistic regression"
 collection: publications
 permalink: /publication/IKLR
 excerpt: 'Authors: **Fanghui Liu**, Xiaolin Huang, and Jie Yang'

@@ -1,8 +1,8 @@
 ---
-title: "Visual Tracking via Nonnegative Multiple Coding"
+title: "Visual tracking via nonnegative multiple coding"
 collection: publications
 permalink: /publication/NMC
-excerpt: 'Authors: Fanghui Liu, Chen Gong, Tao Zhou, Keren Fu, Xiangjian He, and Jie Yang'
+excerpt: 'Authors: **Fanghui Liu**, Chen Gong, Tao Zhou, Keren Fu, Xiangjian He, and Jie Yang'
 date: 2017-05-26
 venue: 'IEEE Transactions on Multimedia'
 paperurl: 'http://sgre.github.io/files/NMC.pdf'
