@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NMC_ICCVW
 excerpt: '**Fanghui Liu**, Tao Zhou, Jie Yang, and Gu Irene'
 date: 2015-12-18
-venue: 'International Conference on Computer Vision Workshops (ICCVW)'
+venue: 'IEEE International Conference on Computer Vision Workshops (ICCVW)'
 ---
 Authors: **Fanghui Liu**, Tao Zhou, Jie Yang, and Gu Irene
 

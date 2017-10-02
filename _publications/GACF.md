@@ -1,5 +1,5 @@
 ---
-title: "Geometric affine transformationestimationviacorrelation filter for visual tracking"
+title: "Geometric affine transformation estimation via correlation filter for visual tracking"
 collection: publications
 permalink: /publication/GACF
 excerpt: '**Fanghui Liu**, Tao Zhou, and Jie Yang'
