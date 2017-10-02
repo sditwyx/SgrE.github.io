@@ -2,7 +2,7 @@
 title: "Indefinite Kernel Logistic Regression"
 collection: publications
 permalink: /publication/IKLR
-excerpt: 'Authors: Fanghui Liu, Xiaolin Huang, and Jie Yang'
+excerpt: 'Authors: **Fanghui Liu**, Xiaolin Huang, and Jie Yang'
 date: 2017-10-25
 venue: 'Proceedings of the 25th ACM Multimedia'
 paperurl: 'http://sgre.github.io/files/IKLR.pdf'
