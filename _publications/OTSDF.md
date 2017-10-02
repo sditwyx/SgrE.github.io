@@ -2,7 +2,7 @@
 title: "Robust visual tracking via constrained correlation filter coding"
 collection: publications
 permalink: /publication/OTSDF
-excerpt: 'Authors: **Fanghui Liu**, Tao Zhou, Keren Fu, and Jie Yang'
+excerpt: '**Fanghui Liu**, Tao Zhou, Keren Fu, and Jie Yang'
 date: 2016-09-28
 venue: 'Pattern Recognition Letters'
 ---
