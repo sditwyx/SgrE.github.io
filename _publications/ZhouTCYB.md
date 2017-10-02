@@ -5,6 +5,6 @@ excerpt: 'Authors: Tao Zhou, **Fanghui Liu**, Harish Bhaskar, and Jie Yang'
 date: 2017-09-12
 venue: 'IEEE Transactions on Cybernetics'
 ---
-Authors: Tao Zhou, Fanghui Liu, Harish Bhaskar, and Jie Yang
+Authors: Tao Zhou, **Fanghui Liu**, Harish Bhaskar, and Jie Yang
 
 
