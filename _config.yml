@@ -85,7 +85,7 @@ author:
   location         : "Location"
   employer         :
   googlescholar    : "http://scholar.google.com.hk/citations?user=AKxBgssAAAAJ&hl=zh-CN&oi=ao"
-  email            :
+  email            : "lfhsgre(AT)gmail(DOT)com. Please replace (AT) and (DOT) with . and @, respectively."
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SgrE"
+  #github           : "SgrE"
   google_plus      :
   keybase          :
   instagram        :
