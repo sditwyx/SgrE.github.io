@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fanghui Liu's Homepage"
+title                    : "Fanghui Liu"
 title_separator          : "-"
 name                     : &name "Fanghui Liu"
 description              : &description "personal description"

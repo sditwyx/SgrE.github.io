@@ -13,4 +13,4 @@ Technology, Harbin, China, in 2014. He is currently pursuing the Ph.D. degree wi
 Processing and Pattern Recognition, Shanghai Jiao Tong University, under the supervision of Prof. Jie Yang. 
 His research areas mainly include computer vision and machine learning with respect to kernel learning, 
 visual tracking, and bayesian learning.
-Here is [my CV](http://sgre.github.io/files/SgrE_CV.pdf).
+Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
