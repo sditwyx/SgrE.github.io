@@ -11,9 +11,9 @@ redirect_from:
 
 2016
 ======
-* Robust visual tracking via constrained correlation filter coding: [**code**](http://sgre.github.io/publication/OTSDF)
-* Geometric affine transformation estimation via correlation filter for visual tracking: [**results**] (http://www.lfhsgre.org/publication/GACF)
+* Robust visual tracking via constrained correlation filter coding: [*code*](http://lfhsgre.org/publication/OTSDF)
+* Geometric affine transformation estimation via correlation filter for visual tracking: [*results*] (http://www.lfhsgre.org/publication/GACF)
 
 2015
 ======
-* Visual tracking via nonnegative regularization multiple locality coding: [**code**](http://www.lfhsgre.org/publication/NMC_ICCVW)
+* Visual tracking via nonnegative regularization multiple locality coding: [*code*](http://www.lfhsgre.org/publication/NMC_ICCVW)
