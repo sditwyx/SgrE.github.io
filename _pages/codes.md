@@ -12,7 +12,7 @@ redirect_from:
 2016
 ======
 * Robust visual tracking via constrained correlation filter coding: [*code*](http://lfhsgre.org/publication/OTSDF)
-* Geometric affine transformation estimation via correlation filter for visual tracking: [*results*] (http://www.lfhsgre.org/publication/GACF)
+* Geometric affine transformation estimation via correlation filter for visual tracking: [*results*](http://www.lfhsgre.org/publication/GACF)
 
 2015
 ======
