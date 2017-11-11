@@ -16,4 +16,4 @@ redirect_from:
 
 2015
 ======
-* Visual tracking via nonnegative regularization multiple locality coding: [*code*](http://www.lfhsgre.org/publication/NMC_ICCVW)
+* Visual tracking via nonnegative regularization multiple locality coding: [*results*](http://www.lfhsgre.org/publication/NMC_ICCVW)
