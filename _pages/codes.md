@@ -11,28 +11,9 @@ redirect_from:
 
 2016
 ======
-* Robust visual tracking via constrained correlation filter coding: download [code](http://sgre.github.io/publication/OTSDF)
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Robust visual tracking via constrained correlation filter coding: [**code**](http://sgre.github.io/publication/OTSDF)
+* Geometric affine transformation estimation via correlation filter for visual tracking: [**results**] (http://www.lfhsgre.org/publication/GACF)
 
-Work experience
+2015
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Visual tracking via nonnegative regularization multiple locality coding: [**code**](http://www.lfhsgre.org/publication/NMC_ICCVW)
