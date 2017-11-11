@@ -5,4 +5,4 @@ type: "Undergraduate course"
 permalink: /codes/2016-OTSDF
 ---
 
-[code](http://www.lfhsgre.org/publication/OTSDF)
+Download [code](http://www.lfhsgre.org/publication/OTSDF)
