@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Codes"
-permalink: /code/
+permalink: /codes/
 author_profile: true
 redirect_from:
   - /resume
