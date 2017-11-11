@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Codes"
+permalink: /code/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+2016
 ======
-* B.S. in Github, Github University, 2012
+* Robust visual tracking via constrained correlation filter coding: Download [code](http://sgre.github.io/publication/OTSDF)
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
