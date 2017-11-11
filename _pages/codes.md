@@ -11,7 +11,7 @@ redirect_from:
 
 2016
 ======
-* Robust visual tracking via constrained correlation filter coding
+* Robust visual tracking via constrained correlation filter coding: download [code](http://sgre.github.io/publication/OTSDF)
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
