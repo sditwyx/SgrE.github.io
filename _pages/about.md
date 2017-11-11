@@ -30,4 +30,10 @@ The homepage is under construction and more information will be presented.
 News
 ----
 It will be regularly updated.
-
+2017-11 One paper is accepted by AAAI2018.
+2017-11 One paper is accepted by Neurocomputing.
+2017-10 Attend ACM Multimedia 2017 in Mountain view, USA.
+2017-09 Awarded by National Scholarship.
+2017-09 One paper is accepted by IEEE Transctions on Cybernetics.
+2017-07 Two papers are accepted by iconip2017.
+2017-07 One paper is accepted by ACM Multimedia.
