@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Fanghui Liu's Homepage!"
+title: "Welcome to Fanghui Liu(刘方辉)'s Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
