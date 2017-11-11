@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Codes"
-    url: /codes/
+   - title: "CV"
+     url: /cv/
     
   - title: "Teaching"
     url: /teaching/   
     
-    #-title "Codes"
+    #-title: "Codes"
     #url: /codes/
 
    #- title: "Talks"
@@ -24,8 +24,6 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
-   #- title: "CV"
-    # url: /cv/
     
   # - title: "Guide"
     # url: /markdown/
