@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth year Ph.D. student in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn).
-My advisors are Prof. [Jie Yang](http://www.pami.sjtu.edu.cn) and Nanji Zhu.
+My advisors are Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/people/jieyang/) and Nanji Zhu.
 Before coming to SJTU, I received the B.S. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 

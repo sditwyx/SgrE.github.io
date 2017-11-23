@@ -10,4 +10,20 @@ Authors: **Fanghui Liu**, Chen Gong, Tao Zhou, Keren Fu, Xiangjian He, and Jie Y
 
 Download [paper](http://sgre.github.io/files/NMC.pdf)
 
-Code will be soon.
+Recommend citation:
+
+@article{Liu2017visual,
+
+  title={Visual Tracking via Nonnegative Multiple Coding},
+  
+  author={Liu, Fanghui and Gong, Chen and Zhou, Tao and Fu, Keren and He, Xiangjian and Yang, Jie},
+  
+  journal={IEEE Transactions on Multimedia},
+  
+  volume={19},
+  number={12},
+  
+  pages={2680--2691},
+  
+  year={2017},
+}
