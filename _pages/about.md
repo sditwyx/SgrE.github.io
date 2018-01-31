@@ -31,6 +31,8 @@ News
 ----
 It will be regularly updated.
 
+2018-02 Attend AAAI2018 in New Orleans, USA.
+
 2017-11 One paper is accepted by AAAI2018.
 
 2017-11 One paper is accepted by Neurocomputing.
@@ -41,6 +43,3 @@ It will be regularly updated.
 
 2017-09 One paper is accepted by IEEE Transctions on Cybernetics.
 
-2017-07 Two papers are accepted by iconip2017.
-
-2017-07 One paper is accepted by ACM Multimedia.
