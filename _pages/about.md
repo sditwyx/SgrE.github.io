@@ -31,6 +31,8 @@ News
 ----
 It will be regularly updated.
 
+2018-03 One paper is accepted by IEEE Transctions on Image Processing.
+
 2018-02 Attend AAAI2018 in New Orleans, USA.
 
 2017-11 One paper is accepted by AAAI2018.
