@@ -31,17 +31,20 @@ News
 ----
 It will be regularly updated.
 
-2018-03 One paper is accepted by IEEE Transctions on Image Processing.
+2018-03 I recieved the Nurturing Foundation of "Excellent Doctorial Dissertation" awarded by 
+Shanghai Jiao Tong University.
 
-2018-02 Attend AAAI2018 in New Orleans, USA.
+2018-02 One paper was accepted by IEEE Transctions on Image Processing.
 
-2017-11 One paper is accepted by AAAI2018.
+2018-02 I attended AAAI-18 in New Orleans, USA.
 
-2017-11 One paper is accepted by Neurocomputing.
+2017-11 One paper was accepted by AAAI-18.
 
-2017-10 Attend ACM Multimedia 2017 in Mountain view, USA.
+2017-11 One paper was accepted by Neurocomputing.
 
-2017-09 Award the National Scholarship.
+2017-10 I attended ACM MM in Mountain view, USA.
 
-2017-09 One paper is accepted by IEEE Transctions on Cybernetics.
+2017-09 I was honored the National Scholarship awarded by Ministry of Education of China.
+
+2017-09 One paper was accepted by IEEE Transctions on Cybernetics.
 
