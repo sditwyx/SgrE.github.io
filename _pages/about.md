@@ -20,10 +20,9 @@ and [bayesian learning](https://en.wikipedia.org/wiki/Bayesian_inference).
 Previously I have worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and I'm 
 still interested in this topic.
 
-Besides, doctorate in the study period, I have participated in several programmes 
-related to infrared target detection, tracking, and recognition.
-
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
+
+此外，博士期间承担若干总装备部、航天2院、8院等项目，涉及红外弱小目标检测、跟踪、识别、抗干扰等，作为主要完成人，已申报国防专利三项。
 
 The homepage is under construction and more information will be presented.
 
