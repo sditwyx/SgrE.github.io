@@ -9,6 +9,5 @@ venue: 'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)'
 Authors: **Fanghui Liu**, Tao Zhou, Chen Gong, Keren Fu, Li Bai, and Jie Yang
 
 Download [paper](http://sgre.github.io/files/NLCF.pdf)
-
-Code will be soon.
+[code](http://sgre.github.io/files/INCLF_code).
 

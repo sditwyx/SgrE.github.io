@@ -30,6 +30,10 @@ News
 ----
 It will be regularly updated.
 
+2018-05 One paper was accepted by IEEE Signal Processing Letters.
+
+2018-05 I recieved "Oustanding Reivewer" Award by Pattern Recognition Journal.
+
 2018-03 I recieved the Nurturing Foundation of "Excellent Doctorial Dissertation" awarded by 
 Shanghai Jiao Tong University.
 
