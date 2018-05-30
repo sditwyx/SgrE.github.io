@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+2017
+======
+* Inverse nonnegative local coordinate factorization for visual tracking [*code*] (http://lfhsgre.org/publication/NLCF)
+
 2016
 ======
 * Robust visual tracking via constrained correlation filter coding: [*code*](http://lfhsgre.org/publication/OTSDF)
