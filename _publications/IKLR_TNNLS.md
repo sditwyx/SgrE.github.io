@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IKLR_TNNLS
 excerpt: '**Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang and Johan A.K. Suykens'
 date: 2018-07-26
-venue: 'IEEE Transactions on Image Processing'
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 ---
 Authors: **Fanghui Liu**, Xiaolin Huang, Chen Gong, Jie Yang and Johan A.K. Suykens
 
