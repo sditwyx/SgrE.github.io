@@ -10,5 +10,4 @@ Authors: **Fanghui Liu**, Xiaolin Huang, and Jie Yang
 
 Download [paper](http://sgre.github.io/files/IKLR.pdf),
 [one minute talk](http://sgre.github.io/files/ACM2017oneminute.pdf)
-
-Code will be soon.
+[code](http://sgre.github.io/files/IKLR_code.zip).

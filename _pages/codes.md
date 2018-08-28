@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+2018
+======
+* Indefinite Kernel Logistic Regression With Concave-Inexact-Convex Procedure [*code*](http://lfhsgre.org/publication/IKLR_TNNLS)
+
 2017
 ======
 * Inverse nonnegative local coordinate factorization for visual tracking [*code*](http://lfhsgre.org/publication/NLCF)
