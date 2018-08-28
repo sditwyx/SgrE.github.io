@@ -11,7 +11,7 @@ redirect_from:
 
 2017
 ======
-* Inverse nonnegative local coordinate factorization for visual tracking [*code*] (http://lfhsgre.org/publication/NLCF)
+* Inverse nonnegative local coordinate factorization for visual tracking [*code*](http://lfhsgre.org/publication/NLCF)
 
 2016
 ======

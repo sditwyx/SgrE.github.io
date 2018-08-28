@@ -55,6 +55,14 @@ Shanghai Jiao Tong University.
 
 Selected Publications
 ----
-**2018**
-Fanghui Liu, et al. Indefinite Kernel Logistic Regression. IEEE Transactions on Neural Networks and Learning Systems(TNNLS).  [link](https://en.wikipedia.org/wiki/Video_tracking) [code](http://sgre.github.io/files/SgrE_CV.pdf).
 
+2018
+======
+
+**Fanghui Liu**, et al. Indefinite Kernel Logistic Regression. IEEE Transactions on Neural Networks and Learning Systems(TNNLS).  [link](https://en.wikipedia.org/wiki/Video_tracking) [code](http://sgre.github.io/files/SgrE_CV.pdf).
+
+* Visual tracking via nonnegative regularization multiple locality coding: [*results*](http://www.lfhsgre.org/publication/NMC_ICCVW)
+
+2015
+======
+* Visual tracking via nonnegative regularization multiple locality coding: [*results*](http://www.lfhsgre.org/publication/NMC_ICCVW)
