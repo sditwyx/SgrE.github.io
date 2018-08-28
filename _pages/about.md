@@ -30,6 +30,8 @@ News
 ----
 It will be regularly updated.
 
+2018-06 One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
+
 2018-05 One paper was accepted by IEEE Signal Processing Letters.
 
 2018-04 I recieved "Oustanding Reivewer" Award by Pattern Recognition Journal.
