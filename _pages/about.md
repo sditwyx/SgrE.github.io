@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
+I am a final year Ph.D. student in [Institute of Image Processing Pattern Recognition](http://www.pami.sjtu.edu.cn) at
 [Shanghai Jiao Tong University](http://www.sjtu.edu.cn).
-My advisors are Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/people/jieyang/) and Nanji Zhu.
+My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.S. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
@@ -22,9 +22,9 @@ still interested in this topic.
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
-此外，博士期间承担若干总装备部、航天2院、8院等项目，涉及红外弱小目标检测、跟踪、识别、抗干扰等，作为主要完成人，已申报国防专利三项。
-
 The homepage is under construction and more information will be presented.
+
+此外，博士期间承担若干总装备部、航天2院、8院等项目，涉及红外弱小目标检测、跟踪、识别、抗干扰等，作为主要完成人，已申报国防专利三项。
 
 News
 ----
