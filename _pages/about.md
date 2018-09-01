@@ -14,11 +14,13 @@ My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.S. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
-I am generally interested in statistical machine learning.
-My research areas mainly include [kernel learning](https://en.wikipedia.org/wiki/Kernel_method)
-and [bayesian learning](https://en.wikipedia.org/wiki/Bayesian_inference).
-Previously I have worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and I'm 
-still interested in this topic.
+I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to dataadaptive
+nonparametric kernel learning, out-of-sample extensions for nonparametric kernel methods,
+indefinite kernel (real, symmetric, but not positive definite) learning, and kernel approximation in large
+scale situations.
+Previously I worked on [visual tracking](https://en.wikipedia.org/wiki/Video_tracking) and I will follow up its progress. Besides, I’m interested in some
+topics including [bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference), [approximation theory](https://en.wikipedia.org/wiki/Approximation_theory), and [stochastic optimization](https://en.wikipedia.org/wiki/Stochastic_optimization).
+
 
 Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
