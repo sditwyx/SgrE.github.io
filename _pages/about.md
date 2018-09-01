@@ -14,7 +14,7 @@ My advisor is Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/jieyang).
 Before coming to SJTU, I received the B.S. degree in control science and engineering from 
 [Harbin Institute of Technology](http://www.hit.edu.cn) in 2014.
 
-I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to dataadaptive
+I’m generally interested in statistical machine learning, mainly on [kernel methods](https://en.wikipedia.org/wiki/Kernel_method) regarding to data-adaptive
 nonparametric kernel learning, out-of-sample extensions for nonparametric kernel methods,
 indefinite kernel (real, symmetric, but not positive definite) learning, and kernel approximation in large
 scale situations.
