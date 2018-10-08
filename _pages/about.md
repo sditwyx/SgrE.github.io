@@ -26,17 +26,23 @@ Here is my [CV](http://sgre.github.io/files/SgrE_CV.pdf).
 
 The homepage is under construction and more information will be presented.
 
-此外，博士期间承担若干总装备部、航天2院、8院等项目，涉及红外弱小目标检测、跟踪、识别、抗干扰等，作为主要完成人，已申报国防专利三项。
+此外，博士期间承担若干项目，作为主要完成人，已申报国防专利三项。
 
 News
 ----
 It will be regularly updated.
 
+2018-09 I was honored the National Scholarship awarded by Ministry of Education of China.
+
+2018-09 One paper was accepted by IEEE Signal Processing Letters.
+
 2018-06 One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
 2018-05 One paper was accepted by IEEE Signal Processing Letters.
 
-2018-04 I recieved "Oustanding Reivewer" Award by Pattern Recognition Journal.
+2018-05 I recieved "Oustanding Reivewer" awarded by Pattern Recognition Letters.
+
+2018-04 I recieved "Oustanding Reivewer" awarded by Pattern Recognition.
 
 2018-03 I recieved the Nurturing Foundation of "Excellent Doctorial Dissertation" awarded by 
 Shanghai Jiao Tong University.
